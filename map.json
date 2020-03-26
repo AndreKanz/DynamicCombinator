@@ -1,0 +1,760 @@
+{
+  "3": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "4": [
+    [
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "5": [
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "6": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "7": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "8": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "9": [
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "10": [
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "11": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "12": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "13": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "14": [
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "15": [
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "16": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "17": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "18": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "19": [
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "20": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "21": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "22": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "23": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "24": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "25": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "26": [
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "27": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "28": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "29": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    [
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ],
+  "32": [
+    [
+      "DataModel.BurningDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.ColdnessDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FlamingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.FreezingDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.PoisonDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.StrengthDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "DataModel.VenomDecorator, DataModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ]
+  ]
+}
